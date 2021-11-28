@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Pages>
+	<CSignInPage>
+		<unBy>user-name</unBy>
+		<pwBy>password</pwBy>
+		<liBy>login-button</liBy>
+		<lgBy>//*[@class="app_logo"]</lgBy>
+		<ebBy>//*[@class="error-message-container error"]</ebBy>
+	</CSignInPage>
+</Pages>
